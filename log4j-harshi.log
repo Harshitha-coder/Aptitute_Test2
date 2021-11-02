@@ -1,0 +1,21 @@
+2021-10-20 21:47:08 INFO  AirlinesController:52 - data is fetched by owner
+2021-10-20 21:54:22 INFO  AirlinesController:52 - data is fetched by owner
+2021-10-21 11:02:21 INFO  AirlinesController:59 - data is fetched by nationality
+2021-10-21 11:11:51 INFO  AirlinesController:59 - data is fetched by nationality
+2021-10-21 11:11:56 INFO  AirlinesController:52 - data is fetched by owner
+2021-10-21 11:12:42 INFO  AirlinesController:52 - data is fetched by owner
+2021-10-21 11:12:52 INFO  AirlinesController:44 - data is fetched
+2021-10-21 11:45:00 INFO  AirlinesController:59 - data is fetched by nationality
+2021-10-21 11:57:18 INFO  AirlinesController:59 - data is fetched by nationality
+2021-10-21 11:59:08 INFO  AirlinesController:31 - data is saved
+2021-10-21 12:05:03 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 12:05:43 INFO  AirlinesController:52 - data is fetched by owner
+2021-10-21 12:22:29 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 12:23:58 INFO  AirlinesController:66 - owner data is updated by name
+2021-10-21 12:29:09 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 12:29:40 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 12:30:26 INFO  AirlinesController:31 - data is saved
+2021-10-21 12:31:41 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 12:31:47 INFO  AirlinesController:67 -  data is deleted by name
+2021-10-21 12:33:11 INFO  DBConfiguration:18 - devDBConnection
+2021-10-21 13:56:31 INFO  DBConfiguration:18 - devDBConnection
